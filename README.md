@@ -19,4 +19,4 @@ Tada! Now your on the home screen! might be laggy and crashy. make sure to set a
 
 
 Im adding a password to the archive because i only want this on GitHub.
-Its Masoroni.
+Its Masoroni.   If i forget to post a new version, download the source code. I added 3dsnus. heres a CIA File decrypter https://github.com/matiffeder/3DS-stuff
