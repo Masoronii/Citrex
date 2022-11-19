@@ -18,5 +18,5 @@ Go to user/%appdata%/Roaming/Citra/nand/00000000000000000000000000000000/title/0
 Tada! Now your on the home screen! might be laggy and crashy. make sure to set a region.
 
 
-Im adding a password too the archive because i only want this on GitHub.
+Im adding a password to the archive because i only want this on GitHub.
 Its Masoroni.
